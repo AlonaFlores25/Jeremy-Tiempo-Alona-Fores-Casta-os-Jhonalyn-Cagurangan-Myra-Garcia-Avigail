@@ -1,3 +1,17 @@
+//Head Programmer: Tiempo, Jeremy
+//Group Leader: Flores, Alona
+
+
+//Members:
+//Castaños, Jhonalyn
+//Cagurangan, Myra
+//Garcia, Avigail
+
+
+
+
+
+
 package com.example.calculator;
 
 import androidx.appcompat.app.AppCompatActivity;
